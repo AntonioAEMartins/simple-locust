@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local development settings
+.env
+
+# Python virtual environment
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Editor-specific temporary files
+*~
+
+# Dependency directories
+lib/
+lib64/
+__pycache__/
+node_modules/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Output of coverage tools
+htmlcov/
+.coverage
+
+# Django generated files
+*.pyc
+*.pyo
+__pycache__/
+*.sqlite3
+db.sqlite3
+media/
+
+# Flask generated files
+instance/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Heroku
+*.pyc
+__pycache__/
+*.db
+*.sqlite3
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
